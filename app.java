@@ -1,4 +1,4 @@
-# This is code for a webaap application
+# This is code for a webapp application
 # Please do not hard code 
 # you are all welcome
 #
