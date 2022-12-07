@@ -1,3 +1,0 @@
-doris 
-eunice
-eric
